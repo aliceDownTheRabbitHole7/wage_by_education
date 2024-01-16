@@ -1,0 +1,1 @@
+# Data retrieved from https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022
